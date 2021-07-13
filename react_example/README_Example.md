@@ -5,3 +5,5 @@ Para crear la estructura de configuración base de nuestro proyecto basico ejecu
 - Previamente hay que tener instalado node.
 
 npx create-react-app (directorio madre)
+
+Se eliminaron las plantillas de la carpeta src para comenzar el proyecto desde cero. 
